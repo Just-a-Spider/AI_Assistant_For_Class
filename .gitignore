@@ -3,3 +3,4 @@ iconos.zip
 *.log
 *.mp3
 *.wav
+venv/
