@@ -4,3 +4,4 @@ iconos.zip
 *.mp3
 *.wav
 venv/
+__pycache__/
